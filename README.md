@@ -76,5 +76,4 @@ I’m a student and a web developer who is interested in gaining new experiences
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
