@@ -18,7 +18,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heysujal&label=Profile%20views&color=0e75b6&style=flat" alt="heysujal" /> </p>
  
-<p align="left"> <a href="https://twitter.com/heysujal" target="blank"><img src="https://img.shields.io/twitter/follow/heysujal?logo=twitter&style=for-the-badge" alt="heysujal" /></a> </p>
+ 
 
 - 🔭 I’m currently working as an intern at [SkyGoal](https://github.com/Skygoal-Innova-Technologies-Pvt-Ltd)
 
@@ -34,7 +34,7 @@
 
 - 📫 How to reach me **sujalgupta6100@gmail.com**
 
-- 📄 View my resume here [here](https://sujalgupta.netlify.app/src/Sujal's%20Resume.pdf)
+- 📄 View my resume [here](https://sujalgupta.netlify.app/src/Sujal's%20Resume.pdf)
 
 - ⚡ Fun fact **I prefer Tabs over Spaces**
 
