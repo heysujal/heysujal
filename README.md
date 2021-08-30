@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to contribute to **Open Source Projects**
+- 👀 I’m looking to contribute to **Open Source Projects**
 
 - 🤝 I’m looking for help with **problem solving skills**
 
