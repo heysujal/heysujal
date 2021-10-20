@@ -17,7 +17,7 @@
 <h1 align="center">Hi, I'm Sujal 👋</h1>
 <h3 align="center">An open source enthusiast and a passionate developer from India.</h3>
 
-- 🔭 I’m currently working as an intern at [SkyGoal](https://github.com/Skygoal-Innova-Technologies-Pvt-Ltd)
+<!-- - 🔭 I’m currently working as an intern at [SkyGoal](https://github.com/Skygoal-Innova-Technologies-Pvt-Ltd) -->
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
