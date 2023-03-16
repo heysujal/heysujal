@@ -31,7 +31,7 @@
 
 - 📫 How to reach me: **sujalgupta6100@gmail.com**
 
-- 📄 View my resume [here](https://sujalgupta.netlify.app/src/Sujal's%20Resume.pdf)
+- 📄 View my resume [here](https://sujalgupta.netlify.app/src/Sujal_Gupta_Resume.pdf)
 
 - ⚡ Fun fact: **I prefer Tabs over Spaces**
 
