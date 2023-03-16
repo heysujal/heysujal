@@ -64,22 +64,5 @@
 </td></tr></table>  
 
 <br/>  
-
-<!-- <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heysujal&show_icons=true&locale=en&layout=compact" alt="heysujal" /></p>
-
-
-</div>
-
-<div align="center">
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heysujal&show_icons=true&locale=en" alt="heysujal" /></p>
-
-
-</div> -->
-  
-
-
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=heysujal&)"><img src="https://activity-graph.herokuapp.com/graph?username=heysujal&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
-     
+ 
+ 
