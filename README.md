@@ -67,4 +67,14 @@
  
  
 <!--START_SECTION:waka-->
+
+```txt
+From: 03 October 2020 - To: 14 June 2023
+
+Total Time: 1 min
+
+HTML   1 min           >>>>>>>>>>>>>>>>>>>>>>---   89.35 %
+CSS    0 secs          >>>----------------------   10.65 %
+```
+
 <!--END_SECTION:waka-->
