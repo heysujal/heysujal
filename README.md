@@ -34,6 +34,8 @@
 - 📄 View my resume [here](https://sujalgupta.netlify.app/src/Sujal_Gupta_Resume.pdf)
 
 - ⚡ Fun fact: **I prefer Tabs over Spaces**
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
