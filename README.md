@@ -33,7 +33,7 @@
 - 📄 View my resume [here](https://sujalgupta.netlify.app/src/Sujal_Gupta_Resume.pdf)
 
 - ⚡ Fun fact/Quote: <!--STARTS_HERE_QUOTE_README-->
-<i>❝No human has won a tournament standard chess game against a high spec computer since 2005.❞</i>
+<i>❝There are more than 5000 new computer viruses are released every month.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
