@@ -33,7 +33,7 @@
 - 📄 View my resume [here](https://sujalgupta.netlify.app/src/Sujal_Gupta_Resume.pdf)
 
 - ⚡ Fun fact/Quote: <!--STARTS_HERE_QUOTE_README-->
-<i>❝“XML is not a language in the sense of a programming language any more than sketches on a napkin are a language.”— Charles Simonyi   ❞</i>
+<i>❝“Program testing can be a very effective way to show the presence of bugs, but is hopelessly inadequate for showing their absence.”— Edsger Dijkstra   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
