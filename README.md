@@ -33,7 +33,7 @@
 - 📄 View my resume [here](https://sujalgupta.netlify.app/src/Sujal_Gupta_Resume.pdf)
 
 - ⚡ Fun fact/Quote: <!--STARTS_HERE_QUOTE_README-->
-<i>❝In 1833, Charles Babbage invented all the parts a modern computer uses, but it wasn’t until 120 years later that the first modern computers were invented.❞</i>
+<i>❝Apple’s first computer, the Apple I, went on sale in 1976 for $666.66 because Steve Wozniak liked repeating digits and found them easier to type. He said he was unaware of any Satanic connotations with the number.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
