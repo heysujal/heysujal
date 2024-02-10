@@ -45,8 +45,6 @@
 
 - [freeCodeCamp : chore: rename APIs and Microservices to include "Backend"](https://github.com/freeCodeCamp/freeCodeCamp/pull/42515)
 
-- [facebook/docusaurus : docs: update link for commonly used languages](https://github.com/facebook/docusaurus/pull/9065)
-
 - [EddieHubCommunity/good-first-issue-finder : add .trim() to searchString ](https://github.com/EddieHubCommunity/good-first-issue-finder/pull/358)
 
 - [python/typeshed : Add _file in class SpooledTemporaryFile in tempfile.pyi ](https://github.com/python/typeshed/pull/10327)
