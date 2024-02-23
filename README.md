@@ -33,7 +33,7 @@
 - 📄 View my resume [here](https://sujalgupta.netlify.app/src/Sujal_Gupta_Resume.pdf)
 
 - ⚡ Fun fact/Quote: <!--STARTS_HERE_QUOTE_README-->
-<i>❝“In a room full of top software designers, if two agree on the same thing, that’s a majority.”— Bill Curtis   ❞</i>
+<i>❝The first electronic computer ENIAC weighed more than 27 tons and took up 1800 square feet.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
