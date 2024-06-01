@@ -45,7 +45,7 @@
 
 - [facebook/docusaurus : fix(theme): make Prism code block language / additionalLanguages case insensitive](https://github.com/facebook/docusaurus/pull/9183)
 
-- [The Alogorithms : Add DNF Sort](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1558)
+- [The Algorithms : Add DNF Sort](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1558)
 
 - [freeCodeCamp : chore: rename APIs and Microservices to include "Backend"](https://github.com/freeCodeCamp/freeCodeCamp/pull/42515)
 
