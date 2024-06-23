@@ -45,6 +45,10 @@
 
 - [facebook/docusaurus : fix(theme): make Prism code block language / additionalLanguages case insensitive](https://github.com/facebook/docusaurus/pull/9183)
 
+- [golang/website : add a delete Go configs instruction under directory named "go"](https://github.com/golang/website/pull/292)
+
+- [golang/website : remove the unnecessary cd into home directory instruction](https://github.com/golang/website/pull/293)
+
 - [The Algorithms : Add DNF Sort](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1558)
 
 - [freeCodeCamp : chore: rename APIs and Microservices to include "Backend"](https://github.com/freeCodeCamp/freeCodeCamp/pull/42515)
