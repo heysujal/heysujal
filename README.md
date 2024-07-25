@@ -33,7 +33,7 @@
 - 📄 View my resume [here](https://sujalgupta.netlify.app/src/Sujal_Gupta_Resume.pdf)
 
 - ⚡ Fun fact/Quote: <!--STARTS_HERE_QUOTE_README-->
-<i>❝“A program is never less than 90% complete, and never more than 95% complete.”— Terry Baker   ❞</i>
+<i>❝The first Apple computer ever made by Steve Jobs and Steve Wozniak was made from old parts they collected for free from their staff!❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
