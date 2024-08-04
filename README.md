@@ -39,11 +39,11 @@
 
 <h3 align="left">My Open Source Contributions</h3>
 
+- [facebook/docusaurus : fix(theme): make Prism code block language / additionalLanguages case insensitive](https://github.com/facebook/docusaurus/pull/9183)
+
 - [Signal-Desktop : Unescape HTML encoded entities in link preview](https://github.com/signalapp/Signal-Desktop/pull/5412)
 
 - [python/typeshed : Add _file in class SpooledTemporaryFile in tempfile.pyi ](https://github.com/python/typeshed/pull/10327)
-
-- [facebook/docusaurus : fix(theme): make Prism code block language / additionalLanguages case insensitive](https://github.com/facebook/docusaurus/pull/9183)
 
 - [The Algorithms : Add DNF Sort](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1558)
 
