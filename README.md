@@ -33,7 +33,7 @@
 - 📄 View my resume [here](https://sujalgupta.netlify.app/src/Sujal_Gupta_Resume.pdf)
 
 - ⚡ Fun fact/Quote: <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you think your users are idiots, only idiots will use it.”— Linus Torvalds   ❞</i>
+<i>❝“There is only one problem with common sense; it’s not very common.”— Milt Bryce   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
