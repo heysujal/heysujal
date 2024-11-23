@@ -33,7 +33,7 @@
 - 📄 View my resume [here](https://sujalgupta.netlify.app/src/Sujal_Gupta_Resume.pdf)
 
 - ⚡ Fun fact/Quote: <!--STARTS_HERE_QUOTE_README-->
-<i>❝Sony released a kit that allows PS2s (Linux for PlayStation 2) to be used as a personal computer.❞</i>
+<i>❝“Programming can be fun, so can cryptography; however they should not be combined.”— Kreitzberg and Shneiderman  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
