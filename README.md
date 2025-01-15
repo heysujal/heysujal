@@ -33,24 +33,30 @@
 - 📄 View my resume [here](https://sujalgupta.netlify.app/src/Sujal_Gupta_Resume.pdf)
 
 - ⚡ Fun fact/Quote: <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The goal is to turn data into information, and information into insight.”— Carly Fiorina❞</i>
+<i>❝“The data speaks for itself. That’s the easiest measure of success.”— Caitlin Smallwood❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
 <h3 align="left">My Open Source Contributions</h3>
 
+- [GitLab Hackathon October 2024 - 🥈 Runner Up : Contributions](https://contributors.gitlab.com/users/heysujal)
+
 - [facebook/docusaurus: fix(theme): make Prism code block language / additionalLanguages case insensitive](https://github.com/facebook/docusaurus/pull/9183)
+
+- [json-schema-org/tour: Add Link Checker Report Github Action](https://github.com/json-schema-org/tour/pull/94)
 
 - [Signal-Desktop: Unescape HTML encoded entities in link preview](https://github.com/signalapp/Signal-Desktop/pull/5412)
 
 - [python/typeshed: Add _file in class SpooledTemporaryFile in tempfile.pyi ](https://github.com/python/typeshed/pull/10327)
-
-- [postmanlabs/postman-code-generators: remove extra line appended in auto-generated code ](https://github.com/postmanlabs/postman-code-generators/pull/779)
+  
+- [litmuschaos/litmus-go: add openssh-clients to dockerfile ](https://github.com/litmuschaos/litmus-go/pull/732)
+  
+- [litmuschaos/litmus-go: use revertErr instead of err](https://github.com/litmuschaos/litmus-go/pull/730)
+  
+- [(In progress) postmanlabs/postman-code-generators: remove extra line appended in auto-generated code ](https://github.com/postmanlabs/postman-code-generators/pull/779)
 
 - [json-schema-org/website: add justinrainbow/json-schema to tooling page](https://github.com/json-schema-org/website/pull/987)
 
-- [json-schema-org/tour: Add Link Checker Report Github Action](https://github.com/json-schema-org/tour/pull/94)
-  
 - [The Algorithms: Add DNF Sort](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1558)
 
 - [freeCodeCamp: chore: rename APIs and Microservices to include "Backend"](https://github.com/freeCodeCamp/freeCodeCamp/pull/42515)
