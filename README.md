@@ -18,19 +18,17 @@
 
 <!-- - 🔭 I’m currently working as an intern at [SkyGoal](https://github.com/Skygoal-Innova-Technologies-Pvt-Ltd) -->
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **DevOps**
 
-- 👀 I’m looking to contribute to **Open Source Projects**
-
-- 🤝 I’m looking for help with **problem solving skills**
+- 👀 I’m looking to contribute to **Cloud Native and JavaScript Projects**
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://sujalgupta.netlify.app/myworks)
 
-- 💬 Ask me about **Open Source and Development**
+- 💬 Ask me about **Open Source and Web Development**
 
-- 📫 How to reach me: **sujalgupta6100@gmail.com**
+- 📫 You can reach me at: **sujalgupta6100@gmail.com**
 
-- 📄 View my resume [here](https://sujalgupta.netlify.app/src/Sujal_Gupta_Resume.pdf)
+- 📄 View my latest resume [here](https://sujalgupta.netlify.app/src/Sujal_Gupta_Resume.pdf)
 
 - ⚡ Fun fact/Quote: <!--STARTS_HERE_QUOTE_README-->
 <i>❝“I am not out to destroy Microsoft, that would be a completely unintended side effect.”— Linus Torvalds   ❞</i>
