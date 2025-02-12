@@ -37,7 +37,7 @@
 
 <h3 align="left">My Open Source Contributions</h3>
 
-- [GitLab Hackathon October 2024 - 🥈 Runner Up : Contributions](https://contributors.gitlab.com/users/heysujal)
+- [GitLab Hackathon October 2024 - 🥈 Runner Up : Contributions](https://forum.gitlab.com/t/announcing-the-october-2024-hackathon-results/117766)
 
 - [facebook/docusaurus: fix(theme): make Prism code block language / additionalLanguages case insensitive](https://github.com/facebook/docusaurus/pull/9183)
 
