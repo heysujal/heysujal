@@ -31,7 +31,7 @@
 - 📄 View my latest resume [here](https://sujalgupta.netlify.app/src/Sujal_Gupta_Resume.pdf)
 
 - ⚡ Fun fact/Quote: <!--STARTS_HERE_QUOTE_README-->
-<i>❝Only about 10% of the world’s currency is physical money, the rest only exists on computers.❞</i>
+<i>❝In Windows 98, minimized windows are actually moved far away outside the average monitor’s resolution.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
