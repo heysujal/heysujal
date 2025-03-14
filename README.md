@@ -31,7 +31,7 @@
 - 📄 View my latest resume [here](https://sujalgupta.netlify.app/src/Sujal_Gupta_Resume.pdf)
 
 - ⚡ Fun fact/Quote: <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you think your users are idiots, only idiots will use it.”— Linus Torvalds   ❞</i>
+<i>❝“We have to stop optimizing for programmers and start optimizing for users.”— Jeff Atwood   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
