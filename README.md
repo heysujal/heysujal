@@ -31,7 +31,7 @@
 - 📄 View my latest resume [here](https://sujalgupta.netlify.app/src/Sujal_Gupta_Resume.pdf)
 
 - ⚡ Fun fact/Quote: <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Computers are good at following instructions, but not at reading your mind.”— Donald Knuth   ❞</i>
+<i>❝“Physics is the universe’s operating system.”— Steven R Garman   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
