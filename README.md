@@ -31,7 +31,7 @@
 - 📄 View my latest resume [here](https://sujalgupta.netlify.app/src/Sujal_Gupta_Resume.pdf)
 
 - ⚡ Fun fact/Quote: <!--STARTS_HERE_QUOTE_README-->
-<i>❝According to statista, by 2023, over 50 billion devices will be connected on the internet.❞</i>
+<i>❝Gaming computers heat a room just as efficiently as a space heater does.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
