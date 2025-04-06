@@ -31,7 +31,7 @@
 - 📄 View my latest resume [here](https://sujalgupta.netlify.app/src/Sujal_Gupta_Resume.pdf)
 
 - ⚡ Fun fact/Quote: <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I think it is inevitable that people program poorly.  Training will not substantially help matters.  We have to learn to live with it.”— Alan Perlis   ❞</i>
+<i>❝“I see little commercial potential for the Internet for at least ten years.”— Bill Gates, 1994   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
