@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Sujal 👋</h1>
 <h3 align="center">An open source enthusiast and a passionate developer from India.</h3>
 
-<!-- - 🔭 I’m currently working as an intern at [SkyGoal](https://github.com/Skygoal-Innova-Technologies-Pvt-Ltd) -->
+- 🔭 I’m currently working as a software engineer at @Accenture
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👀 I’m looking to contribute to **Cloud Native and JavaScript Projects**
+- 👀 I’m looking to contribute to **Cloud Native and TypeScript Projects**
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://sujalgupta.netlify.app/myworks)
+- 👨‍💻 All of my projects are available at my [portfolio](https://linktr.ee/heysujal)
 
 - 💬 Ask me about **Open Source and Web Development**
 
@@ -22,16 +22,13 @@
 
 <h3 align="left">Connect with me:</h3>
 
-
-
-<a href="https://twitter.com/heysujal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heysujal" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/heysujal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heysujal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13154234/heysujal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13154234/heysujal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/heysujal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="heysujal" height="30" width="40" /></a>
+ <a href="https://linktr.ee/heysujal">![alt text](image.png)</a>  
 
 <h3 align="left">My Open Source Contributions</h3>
 
-- [GitLab Hackathon October 2024 - 🥈 Runner Up : Contributions](https://contributors.gitlab.com/users/heysujal?fromDate=2024-10-14&toDate=2025-04-11)
+- [GitLab Hackathon October 2024 - 🥈 Runner Up : 17 Merged Contributions](https://contributors.gitlab.com/users/heysujal?fromDate=2024-10-14&toDate=2025-04-11)
+
+- [gitlab-org/gitlab: Remove `log_geo_deleted_event` stubs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/170468)
 
 - [facebook/docusaurus: fix(theme): make Prism code block language / additionalLanguages case insensitive](https://github.com/facebook/docusaurus/pull/9183)
 
