@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
- <a href="https://linktr.ee/heysujal">![alt text](image.png)</a>  
+ <a href="https://linktr.ee/heysujal"><img src="image.png" alt="linktree-banner" width="400"/></a>  
 
 <h3 align="left">My Open Source Contributions</h3>
 
