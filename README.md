@@ -1,18 +1,3 @@
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Sujal+Gupta's+GitHub+Profile!)](https://git.io/typing-svg)
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/heysujal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heysujal" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/heysujal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heysujal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13154234/heysujal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13154234/heysujal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/heysujal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="heysujal" height="30" width="40" /></a>
-  
-</p>
-
-
- <p align="center">
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-</p>
-
 <h1 align="center">Hi, I'm Sujal 👋</h1>
 <h3 align="center">An open source enthusiast and a passionate developer from India.</h3>
 
@@ -35,9 +20,18 @@
 <!--ENDS_HERE_QUOTE_README-->
 
 
+<h3 align="left">Connect with me:</h3>
+
+
+
+<a href="https://twitter.com/heysujal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heysujal" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/heysujal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heysujal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13154234/heysujal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13154234/heysujal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/heysujal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="heysujal" height="30" width="40" /></a>
+
 <h3 align="left">My Open Source Contributions</h3>
 
-- [GitLab Hackathon October 2024 - 🥈 Runner Up : Contributions](https://forum.gitlab.com/t/announcing-the-october-2024-hackathon-results/117766)
+- [GitLab Hackathon October 2024 - 🥈 Runner Up : Contributions](https://contributors.gitlab.com/users/heysujal?fromDate=2024-10-14&toDate=2025-04-11)
 
 - [facebook/docusaurus: fix(theme): make Prism code block language / additionalLanguages case insensitive](https://github.com/facebook/docusaurus/pull/9183)
 
