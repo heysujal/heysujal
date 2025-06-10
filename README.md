@@ -54,10 +54,10 @@
 
 - [sigstore/fulcio: mark principal and issuer class under pkg/identity as deprecated ](https://github.com/sigstore/fulcio/pull/1980)
 
+- [excalidraw/excalidraw: fix: prevent search menu from opening when dialog is open](https://github.com/excalidraw/excalidraw/pull/9279)
+
 In Progress
 
 - [postmanlabs/postman-code-generators: remove extra line appended in auto-generated code ](https://github.com/postmanlabs/postman-code-generators/pull/779)
 
 - [thanos-io/thanos: Query: Enable promql-experimental-functions](https://github.com/thanos-io/thanos/pull/8191)
-
-- [excalidraw/excalidraw: fix: prevent search menu from opening when dialog is open](https://github.com/excalidraw/excalidraw/pull/9279)
